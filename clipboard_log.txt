@@ -138,7 +138,7 @@ Lo que sí está claro es que es un búho.
 Una fiesta de Afio Nuevo.
 queréis que Ilevemos
 
-nuestros propösitos?
+¿nuestros propösitos?
 Tengo un par de ellos en casa.
 
 Uno rojo y Otro azul.
@@ -233,9 +233,9 @@ desde que eran gatitos.
 Cada dia me parezco mås
 
 a Cat-Go y las Nueve Vidas,
-uno crees?
+¿uno crees?
 Es el mejor grupo de la historia.
-¡Vaya! d..Jna fiesta de Afio Nuevo?
+¡Vaya! ¿d..Jna fiesta de Afio Nuevo?
 
 Gracias. Alli estaré.
 ¿Propösitos? ¡Pues claro!
@@ -253,8 +253,8 @@ Y Io mås emocionante
 es que esta noche darån en la tele
 
 un concierto especial de Afio Nuevo.
-& Y tu propösito cuål es?
-& No tienes ninguno?
+¿Y tu propösito cuål es?
+¿No tienes ninguno?
 No te preocupes.
 
 Todavia tienes tiempo para pensarlo.
@@ -298,8 +298,8 @@ Vacio.
 a su fiesta de Afio Nueva de esta noche.
 "Trae tus propösitos".
 Qué diver. No me Ia perderé.
-¡Cuål es tu propösito del afio, Pete?
-Oslo tienes propösitos?
+¡Cuål ¿es tu propösito del afio, Pete?
+¿Oslo tienes propösitos?
 Espera... Sabes Io que es un propösito?
 No pasa nada, yo si que Io sé.
 Quizå sepa Io que es.
@@ -357,7 +357,7 @@ algo de luz sobre el problema.
  Entonces, eI propösito de papå
 
 es terminar de reparar Ia furgoneta.
-aCuåI es el tuyo, mamå?
+¿CuåI es el tuyo, mamå?
 Este afio, haré por fin
 
 un ålbum de recortes
@@ -390,14 +390,14 @@ que de Ilegar a la Luna,
 y todos los astronautas dicen
 
 que la Luna estä bastante lejos.
-& Cielo? sientes bien?
+¿Cielo? sientes bien?
 Pete es un gato de pocas palabras,
 
 pero su madre Io entendia.
 Por eso se llama "mamä".
 & Te estå dando problemas
 
-tu propösito de Afio Nuevo?
+¿tu propösito de Afio Nuevo?
 Un propösito no deberia ser
 
 algo con Io que complicarse asi.
@@ -508,7 +508,7 @@ Vayamos a ver el concierto.
 
 [New Year concert on TV]
 ¡Hola a todos, y feliz Año Nuevo!
-&Dönde estån mis felinos molones?
+¿Dönde estån mis felinos molones?
 
 ¡A ver esas garras!
 ¡Miau!
@@ -529,7 +529,7 @@ Decidme qué necesitäis para pasarlo bien
 Necesitamos una fiesta guay
 Decidrne qué para vuestra fiesta
 Necesitamos una fiesta
-Si estäis de fiesta, aqué necesitäis?
+¿Si estäis de fiesta, aqué necesitäis?
 A todos nuestros amigos y familia
 Podemos acostarnos tarde
 
@@ -542,7 +542,7 @@ Voy a pasar un Afio Nuevo genial
 Espero que paséis un Aho Nuevo genial...
 ¡Yo también quiero tocar!
 Voy a pasar un Afio Nuevo genial...
-&Qué tal un poco de...?
+¿Qué tal un poco de...?
 Espero que paséis un Aho Nuevo genial...
 ¡C'est magnifique! Moi, aussi.
 Vale, eso significa:
@@ -559,7 +559,7 @@ Espero que pases un Afio Nuevo genial
 Diez, nueve, ocho, siete, seis,
 Cinco, cuatro, tres, dos, uno.
 ¡Feliz Afio Nuevo!
-&Preparados? iVamos a contar hacia atrås
+¿Preparados? iVamos a contar hacia atrås
 
 ¡hasta eI nuevo afio!
 Coged todos una bocina de fiesta.
@@ -614,7 +614,7 @@ Así que ¿cómo podía Pete combinar
 el pasarlo bien con sus amigos,
 con su deseo de tocar música,
 
-en un propósito espectacular?
+¿en un propósito espectacular?
 IUnol.
 Entonces tuvo una inspiración.
 Mi propósito de Año Nuevo
@@ -634,9 +634,7 @@ Mi propósito era parecerme más a Cat-Go,
 pero ella aconseja
 
 que intentemos ir a por todas,
-así que ¿por qué no intentar ser
-
-la nueva Cat-Go?
+así que ¿por qué no intentar ser la nueva Cat-Go?
 ¡Cuenta conmigo!
 Prepararé un horario de ensayos.
 Mi propósito era buscar
@@ -701,136 +699,3 @@ Como dice Pete...
 Tenéis que encontrar
 
 qué os hace felices, y hacerlo.
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-cover/
-
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-.python-version
-
-# pipenv
-# According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-# However, in case you do not want to do that, uncomment the following line to ignore it.
-# Pipfile.lock
-
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-*.sage.py
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Spyder project settings
-.spyderproject
-.spyderworkspace
-
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
-
-# pytype static type analyzer
-.pytype/
-
-# Cython debug symbols
-cython_debug/
